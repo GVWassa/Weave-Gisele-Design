@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4e2367aadfca148cc9b00f50c7549a2a
+timeCreated: 1511941742
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Galactik
+  fontNames:
+  - Galactik
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cd536fce5defb405da834034a41b0e6b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
